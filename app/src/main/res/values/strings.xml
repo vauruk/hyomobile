@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HyO Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Login</string>
+    <string name="password">Senha</string>
+    <string name="log_in">Entrar</string>
+    <string name="wait">Aguarde</string>
+    <string name="loading">Carregando...</string>
+    <string name="logout">Sair</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <string name="title_scan_ble">Escaneando beacons</string>
+    <string name="scan">Escaneando...</string>
+    <string name="parado">Parado</string>
+
+</resources>
